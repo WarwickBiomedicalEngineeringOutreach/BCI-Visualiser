@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ControllerView.qml</file>
+        <file>Graph.qml</file>
+        <file>AsicDataView.qml</file>
+        <file>AsicDataViewColumn.qml</file>
+        <file>RawDataGraph.qml</file>
+    </qresource>
+</RCC>
